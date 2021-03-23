@@ -5,6 +5,10 @@ compiler:
   - gcc
   - clang
 
+arch:
+  - amd64
+  - arm64
+
 # The build machines are Ubuntu 12.04 x64
 addons:
   apt:
